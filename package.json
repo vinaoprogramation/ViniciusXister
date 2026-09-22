@@ -1,0 +1,26 @@
+{
+  "name": "viniciusxister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaoprogramation/ViniciusXister.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinaoprogramation/ViniciusXister/issues"
+  },
+  "homepage": "https://github.com/vinaoprogramation/ViniciusXister#readme",
+  "dependencies": {
+    "@expo-google-fonts/roboto": "^0.4.3",
+    "expo-font": "~57.0.4",
+    "expo-splash-screen": "~57.0.9"
+  }
+}
